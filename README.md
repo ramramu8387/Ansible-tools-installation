@@ -102,3 +102,4 @@ ansible-playbook file.yaml
 
 5. To install and start the web server.
 
+<img width="445" height="208" alt="image" src="https://github.com/user-attachments/assets/a9dd2890-eca8-4661-9348-329e1932e261" />
