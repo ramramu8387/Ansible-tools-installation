@@ -30,3 +30,25 @@ Step-2 :- Set Hostname to all servers as like below
 4. Slave-3
 
 <img width="544" height="347" alt="image" src="https://github.com/user-attachments/assets/8fa62532-c967-401a-92d5-399b572ef46a" />
+
+Step-3 :- Install Ansible & Python-pip on MASTER server.
+
+Commands :-
+
+yum install ansible -y
+yum install python-pip -y
+
+<img width="1349" height="721" alt="image" src="https://github.com/user-attachments/assets/48bfa67c-0c0e-480a-9e4f-34df1bc98d78" />
+
+Step-4 :- Set root password to all master & slave servers.
+
+passwd root
+
+<img width="480" height="103" alt="image" src="https://github.com/user-attachments/assets/dd20c9f3-7169-465f-b125-a990fd33bcb1" />
+
+Step-5 :-  Add inventories to the below path on MASTER server.
+
+vi /etc/ansible/hosts
+
+<img width="137" height="143" alt="image" src="https://github.com/user-attachments/assets/44121be4-f837-4f99-b7e1-5a7abbebfda8" />
+
