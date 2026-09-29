@@ -78,7 +78,7 @@ ansible all -m ping
 
 <img width="1348" height="478" alt="image" src="https://github.com/user-attachments/assets/c0d50c59-3956-4935-958c-069808c27327" />
 
-Step-10 :- Write a playbooks to install/update, modify and to create files and folders.
+Step-10 :- Write a playbooks to install/update, modify and to create and delete on multiple servers.
 
 1. Write a Playbook to install git on dev group.
 
@@ -95,4 +95,10 @@ ansible-playbook file.yaml
 3. To create a directory on all dev & test servers
 
 <img width="397" height="207" alt="image" src="https://github.com/user-attachments/assets/14d3de18-7ca0-4f62-9a82-da644903d2c1" />
+
+4. To create multiple users on all dev & test servers.
+
+<img width="455" height="269" alt="image" src="https://github.com/user-attachments/assets/d7eb2e0a-05d0-4eb5-bd6c-a86bd90869a9" />
+
+5. To install and start the web server.
 
