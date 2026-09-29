@@ -78,6 +78,21 @@ ansible all -m ping
 
 <img width="1348" height="478" alt="image" src="https://github.com/user-attachments/assets/c0d50c59-3956-4935-958c-069808c27327" />
 
-Step-10 :- Write a Playbook to install git on dev group.
+Step-10 :- Write a playbooks to install/update, modify and to create files and folders.
 
+1. Write a Playbook to install git on dev group.
+
+<img width="350" height="186" alt="image" src="https://github.com/user-attachments/assets/5a7afc0a-1f5e-4880-b209-1f5eb2e8a2f0" />
+
+To execute the playbook type below command
+
+ansible-playbook file.yaml
+
+2. To create a file Using Playbook on all servers.
+
+<img width="479" height="260" alt="image" src="https://github.com/user-attachments/assets/88f1efe7-9c08-47dd-b8fe-8ea30e4bfa3d" />
+
+3. To create a directory on all dev & test servers
+
+<img width="397" height="207" alt="image" src="https://github.com/user-attachments/assets/14d3de18-7ca0-4f62-9a82-da644903d2c1" />
 
