@@ -88,18 +88,30 @@ To execute the playbook type below command
 
 ansible-playbook file.yaml
 
-2. To create a file Using Playbook on all servers.
+2.Write a playbook to create a file Using Playbook on all servers.
 
 <img width="479" height="260" alt="image" src="https://github.com/user-attachments/assets/88f1efe7-9c08-47dd-b8fe-8ea30e4bfa3d" />
 
-3. To create a directory on all dev & test servers
+3. Write a playbook to create a directory on all dev & test servers
 
 <img width="397" height="207" alt="image" src="https://github.com/user-attachments/assets/14d3de18-7ca0-4f62-9a82-da644903d2c1" />
 
-4. To create multiple users on all dev & test servers.
+4. Write a playbook to create multiple users on all dev & test servers.
 
 <img width="455" height="269" alt="image" src="https://github.com/user-attachments/assets/d7eb2e0a-05d0-4eb5-bd6c-a86bd90869a9" />
 
-5. To install and start the web server.
+5.Write a playbook to install and start the web server.
 
 <img width="445" height="208" alt="image" src="https://github.com/user-attachments/assets/a9dd2890-eca8-4661-9348-329e1932e261" />
+
+6.Write a playbook using handlers.
+
+<img width="365" height="246" alt="image" src="https://github.com/user-attachments/assets/f5a553da-08bb-4ab7-ba5b-191ec4d4594c" />
+
+7. Write a playbook using conditions
+
+<img width="444" height="318" alt="image" src="https://github.com/user-attachments/assets/8b2128db-e1ed-4a05-a69f-7dfbf2db2c00" />
+
+8.Write a playbook using tags
+
+<img width="447" height="243" alt="image" src="https://github.com/user-attachments/assets/cdad52e0-8fb0-4d7e-964d-0f69beaab3b1" />
